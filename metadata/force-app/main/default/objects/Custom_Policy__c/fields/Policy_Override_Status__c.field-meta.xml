@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Policy_Override_Status__c</fullName>
+    <externalId>false</externalId>
+    <label>Policy Override Status</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>blng__OverrideStatus</valueSetName>
+    </valueSet>
+</CustomField>
